@@ -5,7 +5,7 @@ public class local_variable {
         String name = "Ram";
         int marks = 95;
 
-        System.out.println(name + "Scored "+marks+"%");
+        System.out.println(name + " Scored "+marks+"%");
     }
 
     public static void main(String[] args) {
@@ -13,3 +13,8 @@ public class local_variable {
         var.local();
     }
 }
+
+
+
+/*A variable that is declared inside the body of the method or constructor is called a local variable.
+* Inside the method body, a local variable is declared using the static keyword.*/
