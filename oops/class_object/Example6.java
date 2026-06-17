@@ -18,7 +18,7 @@ public class Example6 {
     public static void main(String[] args) {
         Post p = new Post();
 
-        p.caption = "Hello Beaytiful girl. ";
+        p.caption = "Hello Beautiful girl. ";
         p.likes = 1000;
 
         p.showPost();
