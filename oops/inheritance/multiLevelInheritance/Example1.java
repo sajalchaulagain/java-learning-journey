@@ -1,7 +1,7 @@
 package oops.inheritance.multiLevelInheritance;
 
 
-import oops.class_object.Student;
+//import oops.class_object.Student;
 
 class Person{
     String name;
